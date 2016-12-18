@@ -405,6 +405,16 @@
 /* Organiser */
 
   .organiser{
+    display: inline-block;
+    display: -moz-inline-box;
+    *display: inline; /* For IE7 */
+    zoom: 1; /* Trigger hasLayout */
+    margin-left: 1%;
+    width: 24%;
+    text-align: center;
+  }
+  .organiser > img {
+    width: 75%;
   }
 
 /* Box */
@@ -575,7 +585,7 @@
 		}
 
 			.image.fit img {
-				width: 100%;
+				width: 80%;
 			}
 
 /* List */
