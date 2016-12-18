@@ -402,6 +402,11 @@
 		opacity: 1.0;
 	}
 
+/* Organiser */
+
+  .organiser{
+  }
+
 /* Box */
 
 	.box {
@@ -492,6 +497,7 @@
 				background-color: #d4633c;
 			}
 
+            <div class="organiser">
 			.icon.rounded.color8 {
 				background-color: #d4af3c;
 			}
