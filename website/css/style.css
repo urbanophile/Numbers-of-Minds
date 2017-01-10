@@ -419,17 +419,8 @@
 
 /* Speaker */
 
-  .speaker-right h4 {
-    text-align: right;
-  }
-  .speaker-right p {
-    text-align: justify;
-  }
-  .speaker-left h4 {
-    text-align: left;
-  }
-  .speaker-left p {
-    text-align: left;
+  .speaker{
+    overflow: hidden;
   }
 
 /* Box */
