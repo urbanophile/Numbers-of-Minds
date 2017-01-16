@@ -410,7 +410,7 @@
     *display: inline; /* For IE7 */
     zoom: 1; /* Trigger hasLayout */
     margin-left: 1%;
-    width: 24%;
+    width: 19%;
     text-align: center;
   }
   .organiser > img {
